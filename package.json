@@ -1,0 +1,22 @@
+{
+  "name": "latihanuklpaket1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "5": "^0.0.1",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "md": "^0.6.0",
+    "md5": "^2.3.0",
+    "nodemon": "^3.1.10"
+  }
+}
